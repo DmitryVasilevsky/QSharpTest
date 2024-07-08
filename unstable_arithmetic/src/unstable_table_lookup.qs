@@ -1,13 +1,13 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.Quantum.Unstable.TableLookup {
+namespace DmitryTest.Quantum.Unstable.TableLookup {
     open Microsoft.Quantum.Arrays;
     open Microsoft.Quantum.Convert;
     open Microsoft.Quantum.Diagnostics;
     open Microsoft.Quantum.Math;
     open Microsoft.Quantum.ResourceEstimation;
-    open Microsoft.Quantum.Unstable.Arithmetic;
+    open DmitryTest.Quantum.Unstable.Arithmetic;
 
     /// # Summary
     /// Performs table lookup using a SELECT network

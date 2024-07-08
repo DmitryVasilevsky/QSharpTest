@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.Quantum.Unstable.StatePreparation {
+namespace DmitryTest.Quantum.Unstable.StatePreparation {
     open Microsoft.Quantum.Convert;
     open Microsoft.Quantum.Diagnostics;
     open Microsoft.Quantum.Arrays;
