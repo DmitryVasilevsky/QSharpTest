@@ -1,0 +1,5 @@
+﻿{ 
+  "author" : "dmitryv@microsoft.com", 
+  "files" : [ "src" ],
+  "packageType": "lib" 
+} 
