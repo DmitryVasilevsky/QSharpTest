@@ -1,5 +1,8 @@
 ﻿{ 
   "author" : "dmitryv@microsoft.com", 
-  "files" : [ "src" ],
+  "files" : [ "src/unstable_arithmetic.qs",
+              "src/unstable_arithmetic_internal.qs",
+              "src/unstable_state_preparation.qs",
+              "src/unstable_table_lookup.qs" ],
   "packageType": "lib" 
 } 
